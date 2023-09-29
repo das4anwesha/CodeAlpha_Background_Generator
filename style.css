@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: serif;
+}
+
+
+ body{
+background: linear-gradient(to right, rgb(25, 25, 209) ,rgb(151, 151, 165));
+text-align: center;
+} 
+
+h1{
+    padding: 4%;
+
+}
+
+h2{
+    padding:4% ;
+}
+h3{
+    padding:3%
+}
